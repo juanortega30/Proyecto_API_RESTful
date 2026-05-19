@@ -3,4 +3,5 @@
   <Project Path="LibraryAPI.Application/LibraryAPI.Application.csproj" />
   <Project Path="LibraryAPI.Domain/LibraryAPI.Domain.csproj" />
   <Project Path="LibraryAPI.Infrastructure/LibraryAPI.Infrastructure.csproj" />
+  <Project Path="LibraryAPI.Tests/LibraryAPI.Tests.csproj" />
 </Solution>
